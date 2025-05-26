@@ -1,0 +1,6 @@
+tensorflow
+idx2numpy
+pandas
+matplotlib
+numpy
+opencv-python
