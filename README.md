@@ -8,7 +8,7 @@ Welcome! This repository is designed as a launchpad for aspiring Machine Learnin
 
 Each project is self-contained within its directory, complete with datasets (where applicable), Python scripts for training and evaluation, and saved models/results. This structure allows you to focus on one concept at a time or explore them in any order.
 
-Our goal is to provide clear, practical examples that not only demonstrate *how* to implement these algorithms but also *why* they work and *where* they are applied. We believe this repository serves as an excellent starting point or supplementary resource for anyone beginning their ML journey.
+My goal is to provide clear, practical examples that not only demonstrate *how* to implement these algorithms but also *why* they work and *where* they are applied.
 
 Let's start building!
 
